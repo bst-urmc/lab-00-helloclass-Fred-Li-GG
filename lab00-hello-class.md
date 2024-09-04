@@ -1,4 +1,4 @@
-# Introduction
+# Introductions
 
 This is a demonstration file to go in lecture 01. Your version will be a
 bit shorter.
